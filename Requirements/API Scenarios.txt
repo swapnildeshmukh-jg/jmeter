@@ -1,0 +1,99 @@
+==============================Create Credit Memo (CM-88801)=============================================
+
+{
+  "BusinessUnit": "${BusinessUnit}",
+  "TransactionDate": "2026-07-24",
+  "TransactionNumber": "CM-${__RandomString(6,1234567890,)}",
+  "AccountingDate": "2026-07-24",
+  "TransactionSource": "Manual",
+  "TransactionType": "Credit Memo",
+  "BillToCustomerNumber": "${BilltoCustomerNumber}",
+  "CreditMemoCurrency": "EUR",
+  "receivablesCreditMemoLines": [
+    {
+      "LineNumber": 1,
+      "LineDescription": "Credit for Overbilled Line 1",
+      "LineQuantityCredit": 1,
+      "UnitSellingPrice": -197.30
+    }
+  ]
+}
+
+==============================Create Invoice (INV-77701)=============================================
+
+{
+  "BusinessUnit": "${BusinessUnit}",
+  "TransactionSource": "Manual",
+  "TransactionType": "Invoice",
+  "PaymentTerms": "30 Net",
+  "TransactionDate": "2026-07-24",
+  "AccountingDate": "2026-07-24",
+  "BillToCustomerNumber": "${BilltoCustomerNumber}",
+  "BillToSite": "${BilltoSite}",
+  "InvoiceCurrencyCode": "${Currency}",
+  "PurchaseOrder": "PO-2026-10LINE-01",
+  "CrossReference": "AR-10LINE-01",
+  "Comments": "Automated 10-Line Invoice Test",
+  "receivablesInvoiceLines": [
+    {
+      "LineNumber": 1,
+      "Description": "IT Consulting Services - Week 1",
+      "Quantity": 10,
+      "UnitSellingPrice": 150.00
+    },
+    {
+      "LineNumber": 2,
+      "Description": "IT Consulting Services - Week 2",
+      "Quantity": 10,
+      "UnitSellingPrice": 150.00
+    },
+    {
+      "LineNumber": 3,
+      "Description": "Software License - Core Module",
+      "Quantity": 5,
+      "UnitSellingPrice": 500.00
+    },
+    {
+      "LineNumber": 4,
+      "Description": "Software License - Analytics Module",
+      "Quantity": 5,
+      "UnitSellingPrice": 300.00
+    },
+    {
+      "LineNumber": 5,
+      "Description": "Cloud Hosting & Server Infrastructure",
+      "Quantity": 1,
+      "UnitSellingPrice": 1200.00
+    },
+    {
+      "LineNumber": 6,
+      "Description": "Database Setup & Configuration",
+      "Quantity": 2,
+      "UnitSellingPrice": 400.00
+    },
+    {
+      "LineNumber": 7,
+      "Description": "System Integration & API Testing",
+      "Quantity": 8,
+      "UnitSellingPrice": 125.00
+    },
+    {
+      "LineNumber": 8,
+      "Description": "User Onboarding & Admin Training",
+      "Quantity": 4,
+      "UnitSellingPrice": 200.00
+    },
+    {
+      "LineNumber": 9,
+      "Description": "Security Audit & Compliance Check",
+      "Quantity": 1,
+      "UnitSellingPrice": 750.00
+    },
+    {
+      "LineNumber": 10,
+      "Description": "Annual Maintenance & Technical Support",
+      "Quantity": 1,
+      "UnitSellingPrice": 1000.00
+    }
+  ]
+}
