@@ -1,0 +1,59 @@
+TransactionNumber,TransactionSource,TransactionClass,TransactionType,Complete,BilltoCustomer,BilltoCustomerNumber,TransactionDate,BusinessUnit,AccountingDate,EnteredAmount,Currency,Reference,DetailData
+1447772,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-08-08,France Business Unit,2025-08-08,-4971,USD,FR202518066,Context Value
+1447784,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-09-08,France Business Unit,2025-09-08,-5019,USD,FR202519066,Context Value
+1447798,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-10-08,France Business Unit,2025-10-08,-5067,USD,FR202599066,Context Value
+1447808,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-11-08,France Business Unit,2025-11-08,-5019,USD,FR202511066,Context Value
+1447816,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-12-08,France Business Unit,2025-12-08,-4971,USD,FR202512066,Context Value
+1447915,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-04-08,France Business Unit,2025-04-08,-4633,USD,FR202504066,Context Value
+1447924,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-01-08,France Business Unit,2025-01-08,-4585,USD,FR202588066,Context Value
+1447935,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-02-08,France Business Unit,2025-02-08,-4633,USD,FR202502066,Context Value
+1447943,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-03-08,France Business Unit,2025-03-08,-4633,USD,FR202503066,Context Value
+1447952,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-05-08,France Business Unit,2025-05-08,-4585,USD,FR202505066,Context Value
+1447959,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-06-08,France Business Unit,2025-06-08,-4826,USD,FR202506066,Context Value
+1447965,Receivables Import,Credit Memo,Credit Memo,Yes,ABC Corporation Americas,26370,2025-07-08,France Business Unit,2025-07-08,-4971,USD,FR202507066,Context Value
+1448207,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-09-09,France Business Unit,2025-09-09,-516,EUR,FR202519067,Context Value
+1448215,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-10-09,France Business Unit,2025-10-09,-546,EUR,FR202599067,Context Value
+1448229,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-04-09,France Business Unit,2025-04-09,-366,EUR,FR202504067,Context Value
+1448238,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-01-09,France Business Unit,2025-01-09,-276,EUR,FR202588067,Context Value
+1448241,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-12-09,France Business Unit,2025-12-09,-606,EUR,FR202512067,Context Value
+1448254,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-02-09,France Business Unit,2025-02-09,-306,EUR,FR202502067,Context Value
+1448261,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-03-09,France Business Unit,2025-03-09,-336,EUR,FR202503067,Context Value
+1448267,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-05-09,France Business Unit,2025-05-09,-396,EUR,FR202505067,Context Value
+1448276,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-06-09,France Business Unit,2025-06-09,-426,EUR,FR202506067,Context Value
+1448286,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-07-09,France Business Unit,2025-07-09,-456,EUR,FR202507067,Context Value
+1448295,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-08-09,France Business Unit,2025-08-09,-486,EUR,FR202518067,Context Value
+1448304,Receivables Import,Credit Memo,Credit Memo,Yes,Laboratoires Montague,50010,2025-11-09,France Business Unit,2025-11-09,-576,EUR,FR202511067,Context Value
+10004,ORA_Subscriptions,Credit Memo,ORA_OSS_Credit Memo,Yes,ABC Corporation Limited,25100,2026-07-10,US1 Business Unit,2026-07-10,10002,-12,USD,45048,Context Value
+11023,ORA_Subscriptions,Credit Memo,ORA_OSS_Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-08,US1 Business Unit,2026-07-13,8009,-209.93,USD,45023,Context Value
+11031,ORA_Subscriptions,Credit Memo,ORA_OSS_Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-13,US1 Business Unit,2026-07-15,9015,-18.38,USD,45042,Context Value
+1451041,Receivables Import,Credit Memo,Credit Memo,Yes,Consolidated Services,70010,2026-02-09,US1 Business Unit,2026-02-09,,-192.24,USD,US2026020821,Context Value
+1451052,Receivables Import,Credit Memo,Credit Memo,Yes,Consolidated Services,70010,2026-01-09,US1 Business Unit,2026-01-09,,-192.24,USD,US2026010821,Context Value
+1451172,Receivables Import,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-02-08,US1 Business Unit,2026-02-08,,-437,USD,US2026020820,Context Value
+1451221,Receivables Import,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-01-08,US1 Business Unit,2026-01-08,,-437,USD,US2026010820,Context Value
+1451234,Receivables Import,Credit Memo,Credit Memo,Yes,Contoso Corporation,16080,2026-01-07,US1 Business Unit,2026-01-07,,-420.74,USD,US2026010819,Context Value
+1451266,Receivables Import,Credit Memo,Credit Memo,Yes,Contoso Corporation,16080,2026-02-07,US1 Business Unit,2026-02-07,,-420.74,USD,US2026020819,Context Value
+1451359,Receivables Import,Credit Memo,Credit Memo,Yes,Dixon Industries,59300,2026-02-10,US1 Business Unit,2026-02-10,,-143.97,USD,US2026020822,Context Value
+1451394,Receivables Import,Credit Memo,Credit Memo,Yes,Dixon Industries,59300,2026-01-10,US1 Business Unit,2026-01-10,,-143.97,USD,US2026010822,Context Value
+1454407,Receivables Import,Credit Memo,Credit Memo,Yes,Consolidated Services,70010,2026-03-09,US1 Business Unit,2026-03-09,,-192.24,USD,US2026030821,Context Value
+1454433,Receivables Import,Credit Memo,Credit Memo,Yes,Consolidated Services,70010,2026-04-09,US1 Business Unit,2026-04-09,,-192.24,USD,US2026040821,Context Value
+1454524,Receivables Import,Credit Memo,Credit Memo,Yes,Contoso Corporation,16080,2026-04-07,US1 Business Unit,2026-04-07,,-420.74,USD,US2026040819,Context Value
+1454537,Receivables Import,Credit Memo,Credit Memo,Yes,Contoso Corporation,16080,2026-03-07,US1 Business Unit,2026-03-07,,-420.74,USD,US2026030819,Context Value
+1454674,Receivables Import,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-03-08,US1 Business Unit,2026-03-08,,-437,USD,US2026030820,Context Value
+1454700,Receivables Import,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-04-08,US1 Business Unit,2026-04-08,,-437,USD,US2026040820,Context Value
+1454806,Receivables Import,Credit Memo,Credit Memo,Yes,Dixon Industries,59300,2026-03-10,US1 Business Unit,2026-03-10,,-143.97,USD,US2026030822,Context Value
+1454841,Receivables Import,Credit Memo,Credit Memo,Yes,Dixon Industries,59300,2026-04-10,US1 Business Unit,2026-04-10,,-143.97,USD,US2026040822,Context Value
+151769,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+151775,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+151777,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+151780,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+151783,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+151786,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+151789,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+151792,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+151795,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+151801,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+151803,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+153768,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-21,Supremo US Business Unit,2026-07-21,-215.55,USD,,Context Value Context Value
+153769,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+153770,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-17,Supremo US Business Unit,2026-07-17,-215.55,USD,,Context Value Context Value
+153778,Manual,Credit Memo,Credit Memo,Yes,Computer Service and Rentals,10060,2026-07-21,Supremo US Business Unit,2026-07-21,-215.55,USD,,Context Value Context Value
